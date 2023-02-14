@@ -1,20 +1,20 @@
-⚙️ Update: 15february
 ![](Aspose.Words.baf31816-ca33-4076-9924-ea7599c0acbf.001.png)
+
+⚙️ Update: 15february
 
 |Winsows|Android|IOS|
 | :-: | :-: | :-: |
 |[v2rayN](https://github.com/2dust/v2rayN/releases/download/3.27/v2rayN-Core.zip)|[V2rayNG](https://github.com/2dust/v2rayNG/releases/download/1.6.28/v2rayNG_1.6.28_arm64-v8a.apk)|<p>[shadowrocket](https://apps.apple.com/us/app/shadowrocket/id932747118)</p><p>[Fire vpn](https://apps.apple.com/us/app/fair-vpn/id1533873488)</p>|
 
 Node import method
-
 CTRL+A to select all web pages, CTRL+C to copy, right-click the v2rayN client icon in the taskbar, left-click to batch import URLs from the clipboard, and you can import all v2ray nodes with one click.
 
 
-- All: <https://github.com/resasanian/Mirza/blob/main/mirza-all.txt>
-- Vmess: <https://github.com/resasanian/Mirza/blob/main/mirza-vmess.txt>
-- Vless: <https://github.com/resasanian/Mirza/blob/main/mirza-vless.txt>
-- Trojan: <https://github.com/resasanian/Mirza/blob/main/mirza-trojan.txt>
-- Shahdowsocks: <https://github.com/resasanian/Mirza/blob/main/mirza-ss.txt>
+📥 - All: <https://github.com/resasanian/Mirza/blob/main/mirza-all.txt>
+📥 - Vmess: <https://github.com/resasanian/Mirza/blob/main/mirza-vmess.txt>
+📥 - Vless: <https://github.com/resasanian/Mirza/blob/main/mirza-vless.txt>
+📥 - Trojan: <https://github.com/resasanian/Mirza/blob/main/mirza-trojan.txt>
+📥 - Shahdowsocks: <https://github.com/resasanian/Mirza/blob/main/mirza-ss.txt>
 
 ![GitHub forks](https://img.shields.io/github/forks/resasanian/mirza?style=social)
 ![GitHub watchers](https://img.shields.io/github/watchers/resasanian/mirza?style=social)
