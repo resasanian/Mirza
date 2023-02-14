@@ -1,4 +1,4 @@
-⚙️ Update: 15february
+⚙️ Update: 15february ![GitHub forks](https://img.shields.io/github/forks/resasanian/mirza?style=social)    ![GitHub watchers](https://img.shields.io/github/watchers/resasanian/mirza?style=social)
 
 ![](Aspose.Words.baf31816-ca33-4076-9924-ea7599c0acbf.001.png)
 
@@ -17,7 +17,6 @@ CTRL+A to select all web pages, CTRL+C to copy, right-click the v2rayN client ic
 - Trojan: <https://github.com/resasanian/Mirza/blob/main/mirza-trojan.txt>
 - Shahdowsocks: <https://github.com/resasanian/Mirza/blob/main/mirza-ss.txt>
 
-![GitHub forks](https://img.shields.io/github/forks/resasanian/mirza?style=social) ![GitHub watchers](https://img.shields.io/github/watchers/resasanian/mirza?style=social)
 
 ## **Mirza V2ray**
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfh7rwn4e4VVMtNzcuODMuMjU0LjE4LTUxMjciLA0KICAiYWRkIjogIjc3LjgzLjI1NC4xOCIsDQogICJwb3J0IjogIjUxMDkzIiwNCiAgImlkIjogIjE2ZmJkMzNhLTExN2QtNDg2Yi1iMGRmLTExYTI3NTlmM2IxNCIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJhdXRvIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiINCn0=
