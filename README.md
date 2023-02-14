@@ -21,7 +21,7 @@ CTRL+A to select all web pages, CTRL+C to copy, right-click the v2rayN client ic
 ![GitHub watchers](https://img.shields.io/github/watchers/resasanian/mirza?style=social)
 
 ## **Mirza V2ray**
-<sup>vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfh7rwn4e4VVMtNzcuODMuMjU0LjE4LTUxMjciLA0KICAiYWRkIjogIjc3LjgzLjI1NC4xOCIsDQogICJwb3J0IjogIjUxMDkzIiwNCiAgImlkIjogIjE2ZmJkMzNhLTExN2QtNDg2Yi1iMGRmLTExYTI3NTlmM2IxNCIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJhdXRvIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiINCn0=
+`vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfh7rwn4e4VVMtNzcuODMuMjU0LjE4LTUxMjciLA0KICAiYWRkIjogIjc3LjgzLjI1NC4xOCIsDQogICJwb3J0IjogIjUxMDkzIiwNCiAgImlkIjogIjE2ZmJkMzNhLTExN2QtNDg2Yi1iMGRmLTExYTI3NTlmM2IxNCIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJhdXRvIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiINCn0=
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfh7/wn4emWkEtMTI5LjE1MS4xNjQuMTUyLTMzMTYiLA0KICAiYWRkIjogIjEyOS4xNTEuMTY0LjE1MiIsDQogICJwb3J0IjogIjU1NjAwIiwNCiAgImlkIjogImUzMGY4NTg4LTI1NTUtNDhiOC1jMzU0LWM4ZTYzZjU3MjMyZCIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJhdXRvIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiINCn0=
 
@@ -741,4 +741,4 @@ trojan://shenmegui@hk.swiftfalcon.app:28897?security=tls&sni=hk.swiftfalcon.app&
 
 trojan://telegram-id-privatevpns@54.155.224.56:22222?security=tls&sni=trj.rollingnext.co.uk&type=tcp&headerType=none#%F0%9F%87%AE%F0%9F%87%AAIE-54.155.224.56-19629
 
-trojan://3a2c0c6c-9ee5-c05f-c951-fcd73831983e@kr05.wangxd.life:443?security=tls&type=tcp&headerType=none#%F0%9F%87%B0%F0%9F%87%B7KR-138.2.115.240-4933</sup>
+trojan://3a2c0c6c-9ee5-c05f-c951-fcd73831983e@kr05.wangxd.life:443?security=tls&type=tcp&headerType=none#%F0%9F%87%B0%F0%9F%87%B7KR-138.2.115.240-4933`
