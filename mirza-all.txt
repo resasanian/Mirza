@@ -337,3 +337,16 @@ ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@145.239.1.100:6679#%F0%9F%87%AB%F0%9F%
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@134.195.196.19:2375#%F0%9F%87%A8%F0%9F%87%A6CA-134.195.196.19-0973
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@134.195.196.19:5601#%F0%9F%87%A8%F0%9F%87%A6CA-134.195.196.19-0957
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@51.161.118.38:800#github.com%2Ffreefq%20-%20%E8%8B%B1%E5%9B%BD%E7%A4%BE%E4%BC%9A%E4%BF%9D%E9%99%A9%E5%AE%89%E5%85%A8%E9%83%A8%2055
+trojan://265f092f-418b-30c9-a479-4800fd44dd19mielink@kaizen-us-5.mielink-dns2.com:443?security=tls&sni=paydiu.com&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8US-20.163.90.12-5049
+trojan://6ee96394-2a43-43dc-898b-bbf68a237310@jp-tk-31.fuckjdieng.uk:50286?security=tls&type=tcp&headerType=none#%F0%9F%87%AF%F0%9F%87%B5JP-18.177.58.124-4977
+trojan://265f092f-418b-30c9-a479-4800fd44dd19mielink@kaizen-hk-3.mielink-dns2.com:443?security=tls&sni=paydiu.com&type=tcp&headerType=none#%F0%9F%87%AD%F0%9F%87%B0HK-125.59.27.66-4967
+trojan://265f092f-418b-30c9-a479-4800fd44dd19mielink@kaizen-tw-2.mielink-dns2.com:443?security=tls&sni=paydiu.com&type=tcp&headerType=none#%F0%9F%87%B9%F0%9F%87%BCTW-36.228.226.196-0366
+trojan://265f092f-418b-30c9-a479-4800fd44dd19mielink@kaizen-hk-7.mielink-dns2.com:443?security=tls&sni=paydiu.com&type=tcp&headerType=none#%F0%9F%87%AD%F0%9F%87%B0HK-103.135.103.132-4962
+trojan://4d048fc6-d944-41dd-b327-10856adcc82d@kt.p.mkitty.top:16899?security=tls&type=tcp&headerType=none#github.com%2Ffreefq%20-%20%E7%BE%8E%E5%9B%BD%20%2054
+trojan://265f092f-418b-30c9-a479-4800fd44dd19mielink@kaizen-jp-1.mielink-dns2.com:443?security=tls&sni=paydiu.com&type=tcp&headerType=none#%F0%9F%87%AF%F0%9F%87%B5JP-172.104.118.51-4916
+trojan://b511d2f9-7385-456d-a820-a91587ba7955@20.222.228.18:443?security=tls&sni=vzwzasc.cn&type=tcp&headerType=none#%F0%9F%87%AF%F0%9F%87%B5JP-20.222.228.18-0308
+trojan://265f092f-418b-30c9-a479-4800fd44dd19mielink@kaizen-tw-4.mielink-dns2.com:443?security=tls&sni=paydiu.com&type=tcp&headerType=none#%F0%9F%87%B9%F0%9F%87%BCTW-36.227.243.46-0271
+trojan://265f092f-418b-30c9-a479-4800fd44dd19mielink@kaizen-us-01.mielink-dns2.com:443?security=tls&sni=paydiu.com&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8US-20.106.103.230-3228
+trojan://4d111af8-5078-37e0-a583-34155f60b32c@phxv001.jd0001.top:44302?security=tls&type=tcp&headerType=none#github.com%2Ffreefq%20-%20%E7%BE%8E%E5%9B%BD%20%2010
+trojan://3a2c0c6c-9ee5-c05f-c951-fcd73831983e@kr05.wangxd.life:443?security=tls&type=tcp&headerType=none#%F0%9F%87%B0%F0%9F%87%B7KR-138.2.115.240-4933
+trojan://265f092f-418b-30c9-a479-4800fd44dd19mielink@kaizen-ru-1.mielink-dns2.com:443?security=tls&sni=paydiu.com&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BARU-85.117.235.179-4991
