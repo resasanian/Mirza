@@ -11,7 +11,7 @@
 CTRL+A to select all web pages, CTRL+C to copy, right-click the v2rayN client icon in the taskbar, left-click to batch import URLs from the clipboard, and you can import all v2ray nodes with one click.
 
 
-- All: <https://github.com/resasanian/Mirza/blob/main/mirza-all.txt>
+- All: `https://github.com/resasanian/Mirza/blob/main/mirza-all.txt`
 - Vmess: <https://github.com/resasanian/Mirza/blob/main/mirza-vmess.txt>
 - Vless: <https://github.com/resasanian/Mirza/blob/main/mirza-vless.txt>
 - Trojan: <https://github.com/resasanian/Mirza/blob/main/mirza-trojan.txt>
