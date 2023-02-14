@@ -29,7 +29,7 @@ https://github.com/resasanian/Mirza/blob/main/mirza-trojan.txt
 ```
 - Shahdowsocks:
 ```
-- https://github.com/resasanian/Mirza/blob/main/mirza-ss.txt
+https://github.com/resasanian/Mirza/blob/main/mirza-ss.txt
 ```
 
 ## **Mirza V2ray** (mirza-all.txt)
