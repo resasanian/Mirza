@@ -1,4 +1,6 @@
-⚙️ Update: 15february ![GitHub forks](https://img.shields.io/github/forks/resasanian/mirza?style=social)    ![GitHub watchers](https://img.shields.io/github/watchers/resasanian/mirza?style=social)
+⚙️ Update: 15february
+![GitHub forks](https://img.shields.io/github/forks/resasanian/mirza?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/resasanian/mirza?style=social)
 
 ![](Aspose.Words.baf31816-ca33-4076-9924-ea7599c0acbf.001.png)
 
