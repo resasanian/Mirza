@@ -20,7 +20,7 @@ CTRL+A to select all web pages, CTRL+C to copy, right-click the v2rayN client ic
 ![GitHub forks](https://img.shields.io/github/forks/resasanian/mirza?style=social)
 ![GitHub watchers](https://img.shields.io/github/watchers/resasanian/mirza?style=social)
 
-## **Mirza V2ray**
+## **Mirza V2ray** (mirza-all.txt)
 ```
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuabtOaWsOS6jjowMi0xNSAwNDowMCAtYnkgQnVMaW5rLnh5ei0g5Lul5LiL6IqC54K55LiN6K6h5rWB6YePIiwNCiAgImFkZCI6ICLkvb/nlKjliY3orrDlvpfmm7TmlrDorqLpmIUiLA0KICAicG9ydCI6ICIwIiwNCiAgImlkIjogIjZhM2JjYzA4LTljNzctNGMwMi04NDRiLTRhNjk0YzRmMmZlYSIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiDQp9
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@193.108.117.75:8008#%F0%9F%87%A9%F0%9F%87%AADE-193.108.117.75-1060
