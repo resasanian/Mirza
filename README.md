@@ -8,7 +8,7 @@
 
 ✅ Node import method
 
-CTRL+A to select all web pages, CTRL+C to copy, right-click the v2rayN client icon in the taskbar, left-click to batch import URLs from the clipboard, and you can import all v2ray nodes with one click.
+`CTRL+A` to select all web pages, CTRL+C to copy, right-click the v2rayN client icon in the taskbar, left-click to batch import URLs from the clipboard, and you can import all v2ray nodes with one click.
 
 
 - All:
