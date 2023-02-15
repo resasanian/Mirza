@@ -13,23 +13,23 @@ CTRL+A to select all web pages, CTRL+C to copy, right-click the v2rayN client ic
 
 - All:
 ```
-https://raw.githubusercontent.com/resasanian/Mirza/main/mirza-all.txt
+https://github.com/resasanian/Mirza/blob/main/sub
 ```
 - Vmess:
 ```
-https://raw.githubusercontent.com/resasanian/Mirza/ffc6a337f78e52dcb3dd5783e3d059b560c0c048/mirza-vmess.txt
+https://github.com/resasanian/Mirza/blob/main/vmess
 ```
 - Vless:
 ```
-https://raw.githubusercontent.com/resasanian/Mirza/b0079b3086d37acac8a0391af60d8b14b8bf2b73/mirza-vless.txt
+https://github.com/resasanian/Mirza/blob/main/vless
 ```
 - Trojan:
 ```
-https://raw.githubusercontent.com/resasanian/Mirza/0bc5cd74ef4b5a78dbce46841008e30e266b9348/mirza-trojan.txt
+https://github.com/resasanian/Mirza/blob/main/trojan
 ```
 - Shahdowsocks:
 ```
-https://raw.githubusercontent.com/resasanian/Mirza/a28c88746346a2c29df8d5644a691e8f0fc6a3b5/mirza-ss.txt
+https://github.com/resasanian/Mirza/blob/main/ss
 ```
 
 ## **Mirza V2ray** (mirza-all.txt)
