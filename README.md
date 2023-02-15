@@ -1,6 +1,6 @@
 ![](Aspose.Words.baf31816-ca33-4076-9924-ea7599c0acbf.001.png)
 
-⚙️ Update: 15february
+⚙️ Update: 15 february 2023
 
 |Winsows|Android|IOS|
 | :-: | :-: | :-: |
@@ -374,3 +374,4 @@ ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@134.195.196.19:2375#%F0%9F%87%A8%F0%9F
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@134.195.196.19:5601#%F0%9F%87%A8%F0%9F%87%A6CA-134.195.196.19-0957
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@51.161.118.38:800#github.com%2Ffreefq%20-%20%E8%8B%B1%E5%9B%BD%E7%A4%BE%E4%BC%9A%E4%BF%9D%E9%99%A9%E5%AE%89%E5%85%A8%E9%83%A8%2055
 ```
+with love for Iran ♥
