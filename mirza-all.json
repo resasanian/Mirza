@@ -6,136 +6,45 @@
   },
   "inbounds": [
     {
-      "tag": "socks",
-      "port": 10808,
-      "listen": "127.0.0.1",
-      "protocol": "socks",
-      "sniffing": {
-        "enabled": true,
-        "destOverride": [
-          "http",
-          "tls"
-        ]
-      },
+      "port": 443,
+      "protocol": "vmess",
       "settings": {
-        "auth": "noauth",
-        "udp": true,
+        "udp": false,
+        "clients": [
+          {
+            "id": "2b214122-1906-428a-bbb7-a039cbb7cd5c",
+            "alterId": 0,
+            "email": "t@t.tt"
+          }
+        ],
         "allowTransparent": false
-      }
-    },
-    {
-      "tag": "http",
-      "port": 10809,
-      "listen": "127.0.0.1",
-      "protocol": "http",
-      "sniffing": {
-        "enabled": true,
-        "destOverride": [
-          "http",
-          "tls"
-        ]
       },
-      "settings": {
-        "auth": "noauth",
-        "udp": true,
-        "allowTransparent": false
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "tlsSettings": {
+          "allowInsecure": false,
+          "serverName": "fr1.trump2023.org"
+        },
+        "wsSettings": {
+          "path": "fr1.trump2023.org",
+          "headers": {}
+        }
       }
     }
   ],
   "outbounds": [
     {
-      "tag": "proxy",
-      "protocol": "vmess",
-      "settings": {
-        "vnext": [
-          {
-            "address": "使用前记得更新订阅",
-            "port": 0,
-            "users": [
-              {
-                "id": "6a3bcc08-9c77-4c02-844b-4a694c4f2fea",
-                "alterId": 0,
-                "email": "t@t.tt",
-                "security": "auto"
-              }
-            ]
-          }
-        ]
-      },
-      "streamSettings": {
-        "network": "tcp"
-      },
-      "mux": {
-        "enabled": false,
-        "concurrency": -1
-      }
-    },
-    {
-      "tag": "direct",
-      "protocol": "freedom",
-      "settings": {}
+      "protocol": "freedom"
     },
     {
       "tag": "block",
       "protocol": "blackhole",
-      "settings": {
-        "response": {
-          "type": "http"
-        }
-      }
+      "settings": {}
     }
   ],
   "routing": {
     "domainStrategy": "IPIfNonMatch",
-    "rules": [
-      {
-        "type": "field",
-        "inboundTag": [
-          "api"
-        ],
-        "outboundTag": "api",
-        "enabled": true
-      },
-      {
-        "type": "field",
-        "outboundTag": "direct",
-        "domain": [
-          "domain:example-example.com",
-          "domain:example-example2.com"
-        ],
-        "enabled": true
-      },
-      {
-        "type": "field",
-        "outboundTag": "block",
-        "domain": [
-          "geosite:category-ads-all"
-        ],
-        "enabled": true
-      },
-      {
-        "type": "field",
-        "outboundTag": "direct",
-        "domain": [
-          "geosite:cn"
-        ],
-        "enabled": true
-      },
-      {
-        "type": "field",
-        "outboundTag": "direct",
-        "ip": [
-          "geoip:private",
-          "geoip:cn"
-        ],
-        "enabled": true
-      },
-      {
-        "type": "field",
-        "port": "0-65535",
-        "outboundTag": "proxy",
-        "enabled": true
-      }
-    ]
+    "rules": []
   }
 }
