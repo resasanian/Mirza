@@ -32,7 +32,7 @@ https://github.com/resasanian/Mirza/blob/main/trojan
 https://github.com/resasanian/Mirza/blob/main/ss
 ```
 
-<details><summary>Mirza V2Ray `(mirza-all.txt)`</summary>
+<details><summary>🚀 Mirza V2Ray (mirza-all.txt)</summary>
 <p>
 
 ```vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogInYycmF5ZnJlZS5ldS5vcmcgLSDnvo7lm71DbG91ZEZsYXJl5YWs5Y+4Q0RO6IqC54K5IDQzIiwNCiAgImFkZCI6ICJ2MnJheS5pYmdmdy50b3AiLA0KICAicG9ydCI6ICIyMDgzIiwNCiAgImlkIjogIjcxY2QwZmU1LTZmNGYtNGNlMS05NDFjLWQ1NmMzYmIwOTBhNyIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAidjJyYXkuaWJnZncudG9wIiwNCiAgInBhdGgiOiAiLzVydFA0MGdqLyIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ==
