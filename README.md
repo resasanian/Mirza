@@ -31,4 +31,17 @@ https://github.com/resasanian/Mirza/blob/main/trojan
 ```
 https://github.com/resasanian/Mirza/blob/main/ss
 ```
+
+<details><summary>CLICK ME</summary>
+<p>
+
+#### We can hide anything, even code!
+
+```ruby
+   puts "Hello World"
+```
+
+</p>
+</details>
+
 with love for Iran ♥ 🇮🇷
