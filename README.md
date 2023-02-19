@@ -1,6 +1,6 @@
 ![](Aspose.Words.baf31816-ca33-4076-9924-ea7599c0acbf.001.png)
 
-📅 Update: 19 february 2023
+📅 Update: 20 february 2023
 
 |Winsows|Android|IOS|
 | :-: | :-: | :-: |
