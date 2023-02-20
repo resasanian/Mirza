@@ -1,1 +1,2 @@
-trojan://4d111af8-5078-37e0-a583-34155f60b32c@phxv001.jd0001.top:44302?security=tls&type=tcp&headerType=none#Mirza%20V2ray%2042
+trojan://2959e4f7-7589-4a40-9b96-1be750ac7845@51.83.186.142:80?security=tls&sni=pl1.trojanvh.xyz&type=tcp&headerType=none#%F0%9F%87%B5%F0%9F%87%B1PL-51.83.186.142-0116
+trojan://L3N5SJGFTA@dl.progbyrazyar.ir:2087?security=tls&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8US_737%20%7C170.15Mb
