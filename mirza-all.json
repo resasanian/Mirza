@@ -6,13 +6,13 @@
   },
   "inbounds": [
     {
-      "port": 443,
+      "port": 14252,
       "protocol": "vmess",
       "settings": {
         "udp": false,
         "clients": [
           {
-            "id": "9b6f7da8-6638-414c-f5c1-78d245e9ae31",
+            "id": "52768552-c2b2-4460-89f1-e740cc145b99",
             "alterId": 0,
             "email": "t@t.tt"
           }
@@ -22,6 +22,7 @@
       "streamSettings": {
         "network": "ws",
         "wsSettings": {
+          "path": "/ws-path",
           "headers": {}
         }
       }
