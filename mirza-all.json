@@ -6,40 +6,145 @@
   },
   "inbounds": [
     {
-      "port": 14252,
-      "protocol": "vmess",
-      "settings": {
-        "udp": false,
-        "clients": [
-          {
-            "id": "52768552-c2b2-4460-89f1-e740cc145b99",
-            "alterId": 0,
-            "email": "t@t.tt"
-          }
+      "tag": "socks",
+      "port": 10808,
+      "listen": "127.0.0.1",
+      "protocol": "socks",
+      "sniffing": {
+        "enabled": true,
+        "destOverride": [
+          "http",
+          "tls"
         ],
-        "allowTransparent": false
+        "routeOnly": false
       },
-      "streamSettings": {
-        "network": "ws",
-        "wsSettings": {
-          "path": "/ws-path",
-          "headers": {}
-        }
+      "settings": {
+        "auth": "noauth",
+        "udp": true,
+        "allowTransparent": false
+      }
+    },
+    {
+      "tag": "http",
+      "port": 10809,
+      "listen": "127.0.0.1",
+      "protocol": "http",
+      "sniffing": {
+        "enabled": true,
+        "destOverride": [
+          "http",
+          "tls"
+        ],
+        "routeOnly": false
+      },
+      "settings": {
+        "auth": "noauth",
+        "udp": true,
+        "allowTransparent": false
       }
     }
   ],
   "outbounds": [
     {
-      "protocol": "freedom"
+      "tag": "proxy",
+      "protocol": "trojan",
+      "settings": {
+        "servers": [
+          {
+            "address": "v02.gutingting.com",
+            "method": "chacha20",
+            "ota": false,
+            "password": "f1ac9606-9512-4bff-a588-b205b126820b",
+            "port": 30006,
+            "level": 1,
+            "flow": ""
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "security": "tls",
+        "tlsSettings": {
+          "allowInsecure": false,
+          "serverName": "v2hgc02.fuqiangren.com"
+        }
+      },
+      "mux": {
+        "enabled": false,
+        "concurrency": -1
+      }
+    },
+    {
+      "tag": "direct",
+      "protocol": "freedom",
+      "settings": {}
     },
     {
       "tag": "block",
       "protocol": "blackhole",
-      "settings": {}
+      "settings": {
+        "response": {
+          "type": "http"
+        }
+      }
     }
   ],
   "routing": {
-    "domainStrategy": "IPIfNonMatch",
-    "rules": []
+    "domainStrategy": "AsIs",
+    "rules": [
+      {
+        "type": "field",
+        "inboundTag": [
+          "api"
+        ],
+        "outboundTag": "api",
+        "enabled": true
+      },
+      {
+        "id": "4835364359252935440",
+        "type": "field",
+        "outboundTag": "direct",
+        "domain": [
+          "domain:example-example.com",
+          "domain:example-example2.com"
+        ],
+        "enabled": true
+      },
+      {
+        "id": "5164012796553007979",
+        "type": "field",
+        "outboundTag": "block",
+        "domain": [
+          "geosite:category-ads-all"
+        ],
+        "enabled": true
+      },
+      {
+        "id": "5538499986962728525",
+        "type": "field",
+        "outboundTag": "direct",
+        "domain": [
+          "geosite:cn"
+        ],
+        "enabled": true
+      },
+      {
+        "id": "5583784319265548004",
+        "type": "field",
+        "outboundTag": "direct",
+        "ip": [
+          "geoip:private",
+          "geoip:cn"
+        ],
+        "enabled": true
+      },
+      {
+        "id": "4737361012852569754",
+        "type": "field",
+        "port": "0-65535",
+        "outboundTag": "proxy",
+        "enabled": true
+      }
+    ]
   }
 }
