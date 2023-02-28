@@ -6,13 +6,13 @@
   },
   "inbounds": [
     {
-      "port": 0,
+      "port": 8080,
       "protocol": "vmess",
       "settings": {
         "udp": false,
         "clients": [
           {
-            "id": "6a3bcc08-9c77-4c02-844b-4a694c4f2fea",
+            "id": "397489e0-a0b4-11ed-b443-1577c1651679",
             "alterId": 0,
             "email": "t@t.tt"
           }
@@ -20,7 +20,10 @@
         "allowTransparent": false
       },
       "streamSettings": {
-        "network": "tcp"
+        "network": "ws",
+        "wsSettings": {
+          "headers": {}
+        }
       }
     }
   ],
