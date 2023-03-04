@@ -6,13 +6,13 @@
   },
   "inbounds": [
     {
-      "port": 8080,
+      "port": 443,
       "protocol": "vmess",
       "settings": {
         "udp": false,
         "clients": [
           {
-            "id": "397489e0-a0b4-11ed-b443-1577c1651679",
+            "id": "3a2cc75a-5fc1-4123-983b-7a1c86a10888",
             "alterId": 0,
             "email": "t@t.tt"
           }
@@ -21,7 +21,12 @@
       },
       "streamSettings": {
         "network": "ws",
+        "security": "tls",
+        "tlsSettings": {
+          "allowInsecure": false
+        },
         "wsSettings": {
+          "path": "www.paotung.org",
           "headers": {}
         }
       }
