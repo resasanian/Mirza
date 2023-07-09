@@ -1,10 +1,5 @@
-trojan://7a73f1dc97a70905870c0c0484b12145@trs22.bolab.net:443?security=tls&type=tcp&headerType=none#%F0%9F%87%AF%F0%9F%87%B5JP-133.242.55.38-3551
-trojan://794d739c-89a0-444c-b2e7-acce12af3042@awsjp14-data.amazon-azure.com:443?security=tls&sni=data.amazon-azure.com&type=tcp&headerType=none#%F0%9F%87%AF%F0%9F%87%B5JP-43.206.152.124-0641
-trojan://7a73f1dc97a70905870c0c0484b12145@trs22.bolab.net:443?security=tls&type=tcp&headerType=none#%F0%9F%87%AF%F0%9F%87%B5JP-133.242.55.38-0695
-trojan://z3NtLA8ocb@ccarm.wasanbi.tk:58678?security=tls&type=tcp&headerType=none#%F0%9F%87%B0%F0%9F%87%B7KR-152.67.214.183-3621
-trojan://794d739c-89a0-444c-b2e7-acce12af3042@awsjp14-data.amazon-azure.com:443?security=tls&sni=data.amazon-azure.com&type=tcp&headerType=none#%F0%9F%87%AF%F0%9F%87%B5JP-43.206.152.124-0175
-trojan://z3NtLA8ocb@ccarm.wasanbi.tk:58678?security=tls&type=tcp&headerType=none#%F0%9F%87%B0%F0%9F%87%B7KR-152.67.214.183-0775
-trojan://7c7e0edb-c45a-4c07-b66a-69b191179349@192.9.130.66:443?security=tls&sni=us.disnet.gq&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8US-192.9.130.66-0558
-trojan://794d739c-89a0-444c-b2e7-acce12af3042@awsjp14-data.amazon-azure.com:443?security=tls&sni=data.amazon-azure.com&type=tcp&headerType=none#%F0%9F%87%AF%F0%9F%87%B5JP-43.206.152.124-3340
-trojan://7ad2a5e0-906b-4b3e-97bb-b5f3992cb19d@pqawszf.aiopen.cfd:443?security=tls&sni=us2.pqjc.site&type=tcp&headerType=none#%F0%9F%87%B8%F0%9F%87%ACSG-18.141.206.194-0988
-trojan://7c7e0edb-c45a-4c07-b66a-69b191179349@192.9.130.66:443?security=tls&sni=us.disnet.gq&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8US-192.9.130.66-0661
+trojan://7a73f1dc97a70905870c0c0484b12145@trs22.bolab.net:443?security=tls&type=tcp&headerType=none#%F0%9F%87%AF%F0%9F%87%B5JP-133.242.55.38-0142
+trojan://7ad2a5e0-906b-4b3e-97bb-b5f3992cb19d@pqawszf.aiopen.cfd:443?security=tls&sni=us2.pqjc.site&type=tcp&headerType=none#%F0%9F%87%B8%F0%9F%87%ACSG-13.214.128.14-0931
+trojan://7ad2a5e0-906b-4b3e-97bb-b5f3992cb19d@pqawszf.aiopen.cfd:443?security=tls&sni=us1.pqjc.site&type=tcp&headerType=none#%F0%9F%87%B8%F0%9F%87%ACSG-13.214.128.14-0944
+trojan://z3NtLA8ocb@ccarm.wasanbi.tk:58678?security=tls&type=tcp&headerType=none#%F0%9F%87%B0%F0%9F%87%B7KR-152.67.214.183-0153
+trojan://fWCdFcWBZ8@free-v2ray-panel.devefun.ink:1935?security=tls&type=tcp&headerType=none#%F0%9F%87%AA%F0%9F%87%B8ES-27.0.175.159-17187
