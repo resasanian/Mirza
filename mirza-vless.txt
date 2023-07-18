@@ -1,5 +1,2 @@
-vless://c10a148a-9289-4778-f539-bc85cb18dcd0@92.63.175.213:26480?encryption=none&security=none&type=tcp&headerType=http&host=picofile.com#%40LoRd_uL4mo%7C%F0%9F%87%B3%F0%9F%87%B1%7C150.52
-vless://e832bf0a-66ce-4bb6-97f1-ad1c663543f6@49.13.5.118:58642?encryption=none&security=none&type=tcp&headerType=http&host=speedtest.net#%40ConfigsHUB%7C%F0%9F%87%A9%F0%9F%87%AA%7C159.85
-vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@104.31.16.65:443?encryption=none&security=tls&sni=iraniancp.click&type=ws&host=worker.iraniancp.click&path=%2F%3Fed%3D2048#Iranian%2BCypherpunks%2B443%2Bworker
 vless://fc03933c-9b0b-4eab-9c5f-626ea67c5bff@lars.ns.cloudflare.com:8443?encryption=none&security=tls&sni=iraniancp.click&type=ws&host=b4.iraniancp.click&path=%2F%3Fed%3D2048#Iranian%2BCypherpunks%2B8443
 vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@104.31.16.65:443?encryption=none&security=tls&sni=iraniancp.click&type=ws&host=worker.iraniancp.click&path=%2F%3Fed%3D2048#Iranian%2BCypherpunks%2B443%2Bworker
