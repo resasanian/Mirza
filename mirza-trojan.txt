@@ -1,5 +1,6 @@
-trojan://7a73f1dc97a70905870c0c0484b12145@trs22.bolab.net:443?security=tls&type=tcp&headerType=none#%F0%9F%87%AF%F0%9F%87%B5JP-133.242.55.38-0142
-trojan://7ad2a5e0-906b-4b3e-97bb-b5f3992cb19d@pqawszf.aiopen.cfd:443?security=tls&sni=us2.pqjc.site&type=tcp&headerType=none#%F0%9F%87%B8%F0%9F%87%ACSG-13.214.128.14-0931
-trojan://7ad2a5e0-906b-4b3e-97bb-b5f3992cb19d@pqawszf.aiopen.cfd:443?security=tls&sni=us1.pqjc.site&type=tcp&headerType=none#%F0%9F%87%B8%F0%9F%87%ACSG-13.214.128.14-0944
-trojan://z3NtLA8ocb@ccarm.wasanbi.tk:58678?security=tls&type=tcp&headerType=none#%F0%9F%87%B0%F0%9F%87%B7KR-152.67.214.183-0153
-trojan://fWCdFcWBZ8@free-v2ray-panel.devefun.ink:1935?security=tls&type=tcp&headerType=none#%F0%9F%87%AA%F0%9F%87%B8ES-27.0.175.159-17187
+trojan://7ad2a5e0-906b-4b3e-97bb-b5f3992cb19d@163.123.192.60:443?security=tls&sni=20-24-33-134.nhost.00cdn.com&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8US-163.123.192.60-0904
+trojan://7ad2a5e0-906b-4b3e-97bb-b5f3992cb19d@163.123.192.57:443?security=tls&sni=20-24-33-134.nhost.00cdn.com&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8US-163.123.192.57-3403
+trojan://ZFYOpKqD8uEClpZ2ya83cyCDalwSOYz3F3eCxnBD4eSXNSR5R0aAATj7I3x69g@18.163.249.175:443?security=tls&sni=golang.protocolbuffer.com&type=tcp&headerType=none#%F0%9F%87%AD%F0%9F%87%B0HK-18.163.249.175-0725
+trojan://7c7e0edb-c45a-4c07-b66a-69b191179349@us.disnet.gq:443?security=tls&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8US-192.9.130.66-3433
+trojan://7a73f1dc97a70905870c0c0484b12145@trs22.bolab.net:443?security=tls&type=tcp&headerType=none#%F0%9F%87%AF%F0%9F%87%B5JP-133.242.55.38-0168
+trojan://7ad2a5e0-906b-4b3e-97bb-b5f3992cb19d@pqawszf.aiopen.cfd:443?security=tls&sni=us2.pqjc.site&type=tcp&headerType=none#%F0%9F%87%B8%F0%9F%87%ACSG-3.1.26.211-0712
