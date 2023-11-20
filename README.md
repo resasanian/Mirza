@@ -15,6 +15,10 @@
 ```
 https://github.com/resasanian/Mirza/blob/main/sub
 ```
+- Best 👌🏼:
+```
+https://github.com/resasanian/Mirza/blob/main/best
+```
 - Vmess:
 ```
 https://github.com/resasanian/Mirza/blob/main/vmess
