@@ -2,9 +2,6 @@
 
 📅 Update: 30 nov 2023
 
-<!-- Place this tag where you want the button to render. -->
-<GitHubButton href="https://github.com/resasanian" data-color-scheme="no-preference: light_high_contrast; light: dark_dimmed; dark: light_high_contrast;" data-size="large" aria-label="Follow @resasanian on GitHub">Follow @resasanian</GitHubButton>
-
 |Winsows|Android|IOS|
 | :-: | :-: | :-: |
 |[v2rayN](https://github.com/2dust/v2rayN/releases/download/3.27/v2rayN-Core.zip)</p><p>[v2rayN With Core SelfContained](https://github.com/2dust/v2rayN/releases/download/6.23/zz_v2rayN-With-Core-SelfContained.7z)|[V2rayNG](https://github.com/2dust/v2rayNG/releases/download/1.6.28/v2rayNG_1.6.28_arm64-v8a.apk)|<p>[shadowrocket](https://apps.apple.com/us/app/shadowrocket/id932747118)</p><p>[Fire vpn](https://apps.apple.com/us/app/fair-vpn/id1533873488)</p><p>[Streisand](https://apps.apple.com/us/app/streisand/id6450534064)</p>|
