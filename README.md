@@ -284,4 +284,4 @@ trojan://29ea82cf-f956-42b2-a5dc-35feea39e7ff@141.193.68.81:443?security=tls&sni
 </p>
 </details>
 
-with love for Iran ♥ 🇮🇷
+with love for Iran ❤ 🇮🇷 🇮🇷
